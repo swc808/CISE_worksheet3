@@ -3,10 +3,9 @@
     "version": 2,
     "builds": [
         {
-            "src": "*.js",
+            "src": "./db.js",
             "use": "@vercel/node"
         }
-
 
     ],
 
